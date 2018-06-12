@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Select from 'react-select';
-import DropdownBox from "./components/DropdownBox/DropdownBox";
 import TaskContainer from "./components/TaskContainer/TaskContainer";
 
 class App extends Component {
