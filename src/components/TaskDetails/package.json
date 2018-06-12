@@ -1,0 +1,7 @@
+{
+    "name": "TaskDetails",
+    "version": "0.0.0",
+    "private": true,
+    "main": "./TaskDetails.js"
+  }
+  
